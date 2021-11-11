@@ -1,0 +1,1 @@
+This is a simple text for the first task in our NLP Project. Here is an EG Phone number +201123546987 and another one without code 01054687462.
